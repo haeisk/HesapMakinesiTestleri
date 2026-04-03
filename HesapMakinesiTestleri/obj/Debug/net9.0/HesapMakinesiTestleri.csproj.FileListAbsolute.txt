@@ -97,3 +97,4 @@ D:\workspace\HesapMakinesiTestleri\HesapMakinesiTestleri\obj\Debug\net9.0\refint
 D:\workspace\HesapMakinesiTestleri\HesapMakinesiTestleri\obj\Debug\net9.0\HesapMakinesiTestleri.pdb
 D:\workspace\HesapMakinesiTestleri\HesapMakinesiTestleri\obj\Debug\net9.0\HesapMakinesiTestleri.genruntimeconfig.cache
 D:\workspace\HesapMakinesiTestleri\HesapMakinesiTestleri\obj\Debug\net9.0\ref\HesapMakinesiTestleri.dll
+D:\workspace\HesapMakinesiTestleri\HesapMakinesiTestleri\obj\Debug\net9.0\HesapMakinesiTestleri.sourcelink.json
