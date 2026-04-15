@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QCyqxQShaMY=",
+  "dgSpecHash": "KLwUtXquInY=",
   "success": true,
   "projectFilePath": "D:\\workspace\\HesapMakinesiTestleri\\HesapMakinesiTestleri\\HesapMakinesiTestleri.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,10 @@
     "C:\\Users\\anime\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
     "C:\\Users\\anime\\.nuget\\packages\\nunit.analyzers\\4.4.0\\nunit.analyzers.4.4.0.nupkg.sha512",
     "C:\\Users\\anime\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
-    "C:\\Users\\anime\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "C:\\Users\\anime\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\anime\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\anime\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\anime\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512"
   ],
   "logs": []
 }
