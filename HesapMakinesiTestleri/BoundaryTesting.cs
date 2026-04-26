@@ -123,4 +123,19 @@ public class BoundaryTesting
     Assert.That(sonuc, Is.EqualTo(0));
     }   
 
+
+    [Test]
+    public void Topla_MaxValueEksiOne_TasmamaliBasariliOlmali()
+    {
+    // Arrange - sınırın hemen altı
+    int a = int.MaxValue - 1;
+    int b = 1;
+
+    // Act
+    int sonuc = _hesapMakinesi.Topla(a, b);
+
+    // Assert
+    Assert.That(sonuc, Is.EqualTo(int.MaxValue));
+    }
+
 }
